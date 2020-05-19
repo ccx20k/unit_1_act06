@@ -4,6 +4,7 @@ body {
     font-family: "Gerogia","times new roman","times","serif";
     margin: 0;
     padding: 0;
+    line-height: 1.5;
 }
 
 header {
@@ -38,6 +39,11 @@ h2 {
 
 #contact-info {
     float: left;
+    width: 30;
+}
+
+a:link {
+    color: #d21034;
 }
 
 img {
