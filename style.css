@@ -1,0 +1,47 @@
+body {
+    color: #333333;
+    background-color: #efeee7;
+    font-family: "Gerogia","times new roman","times","serif";
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333333;
+}
+
+h1 {
+    color: #eee;
+    font-size: 28px;    
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+#bio-image {
+    float: left;
+}
+
+#main-bio {
+    float: left;
+    width: 70%;
+}
+
+#contact-info {
+    float: left;
+}
+
+img {
+    margin: 7.5px;
+    width: 200px;
+    height: 200px;
+}
